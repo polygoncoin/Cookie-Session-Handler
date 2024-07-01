@@ -1,6 +1,6 @@
 {
     "name": "ramesh/cookie-session-handler",
-    "description": "Handler class that stores session data in cookies",
+    "description": "Handler class to store session data in cookies",
     "type": "library",
     "license": "MIT",
     "authors": [
