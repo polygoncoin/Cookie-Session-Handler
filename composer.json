@@ -1,5 +1,5 @@
 {
-    "name": "ramesh/cookie-session-handler",
+    "name": "polygoncoin/cookie-session-handler",
     "description": "Handler class to store session data in cookies",
     "type": "library",
     "license": "MIT",
