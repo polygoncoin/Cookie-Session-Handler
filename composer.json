@@ -1,0 +1,12 @@
+{
+    "name": "ramesh/cookie-session-handler",
+    "description": "Handler class that stores session data in cookies",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ramesh N Jangid"
+        }
+    ],
+    "require": {}
+}
