@@ -1,6 +1,7 @@
 {
     "name": "polygoncoin/cookie-session-handler",
     "description": "Handler class to store session data in cookies",
+    "keywords": ["Cookie", "Session", "Handler", "Heavy", "Traffic"],
     "type": "library",
     "license": "MIT",
     "authors": [
